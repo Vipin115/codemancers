@@ -39,13 +39,13 @@ export const File = () => {
       </div>
       <div className="second_container">
         <div className="personal_details_div">
-          <img className="profile_pic" src="./blank-profile.webp" alt="" />
+          <img className="profile_pic" src="https://w7.pngwing.com/pngs/81/570/png-transparent-profile-logo-computer-icons-user-user-blue-heroes-logo-thumbnail.png" alt="" />
           <p>Name</p>
           
         </div>
         <div className="post_div">
           <div className="post_input_div">
-            <img src="./blank-profile.webp" alt="" />
+            <img src="https://w7.pngwing.com/pngs/81/570/png-transparent-profile-logo-computer-icons-user-user-blue-heroes-logo-thumbnail.png" alt="" />
             <input
               value={post}
               onChange={(e) => setPost(e.target.value)}
@@ -145,7 +145,7 @@ export const File = () => {
               {displaydata.map((el) => (
                 <>
                   <div className="header_div">
-                    <img src="./blank-profile.webp" alt="" />
+                    <img src="https://w7.pngwing.com/pngs/81/570/png-transparent-profile-logo-computer-icons-user-user-blue-heroes-logo-thumbnail.png" alt="" />
                     <p>{el.Post_name}</p>
                   </div>
                   <div className="gif_container">
