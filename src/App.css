@@ -8,6 +8,7 @@ body {
 }
 .app_name {
   text-align: center;
+  color: white;
 }
 .second_container {
   box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px,

@@ -35,7 +35,7 @@ export const File = () => {
   return (
     <div className="main_div">
       <div className="app_name">
-        <h2>FACEBOOK</h2>
+        <h2>facebook ui</h2>
       </div>
       <div className="second_container">
         <div className="personal_details_div">
